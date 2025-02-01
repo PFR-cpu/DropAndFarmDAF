@@ -114,7 +114,7 @@ function checkAns(){
 
     if(questcount == 1){
         question.innerHTML = 'Вы хотели бы участвовать в интересных крипто активностях <br> и наращивать свой капитал без вложений?'
-        question.style.fontSize = '3.1vw';
+        question.style.fontSize = '2.7vw';
         question.style.textAlign = 'center'
     }
     if(questcount == 2){
