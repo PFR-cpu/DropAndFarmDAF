@@ -438,7 +438,7 @@ animation-duration: 2.2s;
         font-size: 6.5vmax;
     }
     #sb-text1{
-        font-size: 1.75vmax;
+        font-size: 2.1vmax;
     }
     #third-block-inside{
         margin-left: 5.5vw;
@@ -458,5 +458,8 @@ animation-duration: 2.2s;
     }
     #perehod-btn{
         font-size: 1vh;
+    }
+    #startquestion{
+        margin-left:30vw;
     }
 }
